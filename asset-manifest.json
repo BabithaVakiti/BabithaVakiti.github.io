@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3010d9f0.css",
-    "main.js": "./static/js/main.45104101.js",
+    "main.js": "./static/js/main.43f3bd47.js",
     "static/css/64.bba8fa55.chunk.css": "./static/css/64.bba8fa55.chunk.css",
     "static/js/64.c4aed6c8.chunk.js": "./static/js/64.c4aed6c8.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "./static/css/769.b3cbb36b.chunk.css",
@@ -14,7 +14,6 @@
     "static/media/AdTalem.png": "./static/media/AdTalem.8482564afe9e1ef6e018.png",
     "static/media/SFAssociate.png": "./static/media/SFAssociate.93c3a7823671f384fe8f.png",
     "static/media/SFAdmin.png": "./static/media/SFAdmin.6d153e56085ec83d61ba.png",
-    "static/media/resume.pdf": "./static/media/resume.af391d2ef05e2b25f1ca.pdf",
     "static/media/TaylorCommunications.png": "./static/media/TaylorCommunications.88f19f4291221ec4346e.png",
     "static/media/Marist_College.png": "./static/media/Marist_College.20367da2e4996a0d3e97.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -26,7 +25,7 @@
     "index.html": "./index.html",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3010d9f0.css.map": "./static/css/main.3010d9f0.css.map",
-    "main.45104101.js.map": "./static/js/main.45104101.js.map",
+    "main.43f3bd47.js.map": "./static/js/main.43f3bd47.js.map",
     "64.bba8fa55.chunk.css.map": "./static/css/64.bba8fa55.chunk.css.map",
     "64.c4aed6c8.chunk.js.map": "./static/js/64.c4aed6c8.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "./static/css/769.b3cbb36b.chunk.css.map",
@@ -34,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.3010d9f0.css",
-    "static/js/main.45104101.js"
+    "static/js/main.43f3bd47.js"
   ]
 }
